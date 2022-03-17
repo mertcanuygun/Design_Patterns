@@ -1,0 +1,4 @@
+﻿
+--Factory Method Design Pattern
+
+-This design pattern allows us to create different type of objects over single instance. In big scale projects, it gets easier to create objects in terms of time and codes.

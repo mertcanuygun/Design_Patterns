@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{B3EE63FB-1257-40E3-8AF6-073CF6EB601A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{08CE0086-2EFC-4C7A-9515-FC70059AD289}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{924F4251-5BC8-4044-BF8B-411D61F274AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other Design Patterns", "Other Design Patterns", "{141565CA-DCD1-4553-AA98-2096A1EB43A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{43D209B4-0FA5-4B46-8584-A059E0A13C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{7B2479A8-EA11-40D8-BB8A-C34408ECD5BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Injection", "Dependency Injection\Dependency Injection.csproj", "{49E1CE3D-B648-483E-93E0-5CA24CA5FAC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{CB5092C6-ACC1-4EE7-B7F7-B6CE07E0ED02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{B885D62B-1A6A-4726-80A5-CF4A250E2308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D209B4-0FA5-4B46-8584-A059E0A13C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D209B4-0FA5-4B46-8584-A059E0A13C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D209B4-0FA5-4B46-8584-A059E0A13C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D209B4-0FA5-4B46-8584-A059E0A13C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2479A8-EA11-40D8-BB8A-C34408ECD5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2479A8-EA11-40D8-BB8A-C34408ECD5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2479A8-EA11-40D8-BB8A-C34408ECD5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2479A8-EA11-40D8-BB8A-C34408ECD5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E1CE3D-B648-483E-93E0-5CA24CA5FAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E1CE3D-B648-483E-93E0-5CA24CA5FAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E1CE3D-B648-483E-93E0-5CA24CA5FAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E1CE3D-B648-483E-93E0-5CA24CA5FAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5092C6-ACC1-4EE7-B7F7-B6CE07E0ED02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5092C6-ACC1-4EE7-B7F7-B6CE07E0ED02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5092C6-ACC1-4EE7-B7F7-B6CE07E0ED02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5092C6-ACC1-4EE7-B7F7-B6CE07E0ED02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B885D62B-1A6A-4726-80A5-CF4A250E2308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B885D62B-1A6A-4726-80A5-CF4A250E2308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B885D62B-1A6A-4726-80A5-CF4A250E2308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B885D62B-1A6A-4726-80A5-CF4A250E2308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43D209B4-0FA5-4B46-8584-A059E0A13C98} = {B3EE63FB-1257-40E3-8AF6-073CF6EB601A}
+		{7B2479A8-EA11-40D8-BB8A-C34408ECD5BE} = {B3EE63FB-1257-40E3-8AF6-073CF6EB601A}
+		{49E1CE3D-B648-483E-93E0-5CA24CA5FAC9} = {141565CA-DCD1-4553-AA98-2096A1EB43A6}
+		{CB5092C6-ACC1-4EE7-B7F7-B6CE07E0ED02} = {924F4251-5BC8-4044-BF8B-411D61F274AE}
+		{B885D62B-1A6A-4726-80A5-CF4A250E2308} = {08CE0086-2EFC-4C7A-9515-FC70059AD289}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4CC6D2-462B-451B-B08E-1DAAB336CAB1}
+	EndGlobalSection
+EndGlobal

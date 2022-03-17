@@ -1,0 +1,6 @@
+﻿
+--Dependency Injection Design Pattern
+
+-This pattern is used for minimizing the dependency between classes by using interface. This way, the project will be resillient for modifications.
+
+In the example, Playlist classes and the LaMusica class are connected each other with an abstract structure which allows us to call playlists via IPlaylist.

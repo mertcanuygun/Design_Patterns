@@ -1,0 +1,7 @@
+﻿
+
+--Singleton Design Pattern
+
+-This pattern is used for creating only one object of the concerned class and using the same object throughout the whole project. Singleton pattern is applied if the user is not desired to create objects at her own request. Regarding restriction is achieved by creating a private constructor in the class. So, the user will not be ale to create objects freely.
+
+Example1 is created with static method while Example2 used static property.
